@@ -3,6 +3,7 @@
 ---
 ---
 ###What is the background of your company?### What do they do? Who are their competitors?
+***Sean***
 
 #Company Hisotry#
 **Robinhood Markets, Inc.**
@@ -15,6 +16,7 @@ Founded in 2013 by Vladimir Tenev and Baiju Bhatt - the name is based on the mis
 ****Coinbase
 *****Vanguard Group
 ******Acorns
+
 
 ---
 ---
@@ -31,6 +33,11 @@ Robinhood is exemplary in the Fintech space because it is allows individual user
 ---
 What is the prognosis for this company? Where do they expect to be in the future?
 ***allen***
+
+#"RobinHood is Toast . . . "  says World of Wallstreet Jordan Belfort# 
+
+---
+Future may be uncertain.  However, being able to satisfy liquidity and trading volume requirements; raising $3 billion within 72 hours to resume trading, is fantastic points to the flexibility and agility of a large company that can adapt to market conditions quite quickly. 
 
 
 
